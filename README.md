@@ -1,0 +1,1 @@
+ALX higher level programing is where we will learn and understand what python and its fuctions are. 
